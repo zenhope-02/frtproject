@@ -1,5 +1,6 @@
 # Fitment - Interior Design Project
 This is my final Future Ready Talent project. It is an ecommerce site based on interior home design.
+Deployed on Azure: https://mango-glacier-06043ee10.3.azurestaticapps.net
 # Problem Statement:
 The current interior design website lacks an engaging user experience, fails to effectively showcase design portfolios, and lacks personalized recommendations tailored to individual user preferences and needs. Users struggle to find relevant design inspiration and have limited options for visualizing their own spaces. Furthermore, the website lacks an interactive platform for users to connect with professional interior designers, seek expert advice, and collaborate on design projects. This hampers the overall user satisfaction and inhibits the website's potential for attracting and retaining customers. Therefore, there is a need to revamp the interior design website to create a visually appealing, user-friendly, and personalized platform that offers comprehensive design inspiration, tools for visualizing spaces, and seamless connectivity between users and professional designers.
 # Project Description:
